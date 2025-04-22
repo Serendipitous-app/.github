@@ -1,4 +1,6 @@
-## Hi there 👋
+## Oout
+
+An event plannification application
 
 <!--
 
@@ -10,3 +12,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+> This is a public repo, please don't write sensitive data there the `docs` repo is made for all technical stuff...
